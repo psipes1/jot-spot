@@ -1,0 +1,1 @@
+Simple Node CRUD app, using Handlebars.js instead of EJS. Allows you to add note ideas.
